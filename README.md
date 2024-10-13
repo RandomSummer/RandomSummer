@@ -137,6 +137,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+\[![An image of @randomsummer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/randomsummer)](https://holopin.io/@randomsummer)
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
