@@ -58,7 +58,7 @@
 
 <hr>
 
-### Open Source Experiences
+<h2 align='center'>🎉 Open Source Program and Achievements🎉</h2>
 
 <details>
   <summary> GSSoC'24-Extd [Contributor] </summary>
