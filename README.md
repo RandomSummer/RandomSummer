@@ -78,7 +78,7 @@
 
 <hr>
 
-## GSSOC(24) Badges 🪶
+<h2 align="center"> 🎉 GSSoC'24 Badges 🎉</h2>
 <div align="center">
   <table>
     <tr align="center">
@@ -86,7 +86,7 @@
         <a href="">
           <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
-          <strong>GirlScript Summer of Code Extd 2024</strong>
+          <strong> GSSoC'24 Extd </strong>
         </a>
         <br>
         <span style="font-size: 14px; color: #555555;">🏅 Rank - 300 </span>
