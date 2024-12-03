@@ -147,7 +147,7 @@
 <br>
 <hr>
 
-<h2 align="center"> 🎉 GSSoC'24 Extd Badges 🎉</h2>
+<h2 align="center"> 🎉 GSSoC'24 Badges 🎉</h2>
 <div align="center">
   <table>
     <tr align="center">
@@ -155,10 +155,10 @@
         <a href="">
           <img src="https://github.com/RandomSummer/RandomSummer/blob/master/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
-          <strong> GSSoC'24 Extd </strong>
+          <strong> GSSoC'24 </strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Rank - 300 </span>
+        <span style="font-size: 14px; color: #555555;">🏅 Rank - 755 </span>
         <br>
         <span style="font-size: 12px; color: #777777;">
         </span>
