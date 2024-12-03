@@ -78,13 +78,13 @@
 
 <hr>
 
-<h2 align="center"> 🎉 GSSoC'24 Badges 🎉</h2>
+<h2 align="center"> 🎉 GSSoC'24 Extd Badges 🎉</h2>
 <div align="center">
   <table>
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="">
-          <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <img src="https://github.com/RandomSummer/RandomSummer/blob/master/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong> GSSoC'24 Extd </strong>
         </a>
@@ -139,5 +139,66 @@
 </div>
 
 <br>
+<hr>
 
+<h2 align="center"> 🎉 Hacktober-Fest Badges 🎉</h2>
 <a href="https://holopin.me/RandomSummer">   <img src="https://holopin.me/RandomSummer" alt="@@RandomSummer Holopin board" /> </a>
+
+<br>
+<hr>
+
+<h2 align="center"> 🎉 GSSoC'24 Extd Badges 🎉</h2>
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/RandomSummer/RandomSummer/blob/master/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong> GSSoC'24 Extd </strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Rank - 300 </span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+	    <td style="padding: 10px;" width="100">
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24/Postman%20Badge.png" alt="Postman Badge" width="80" />
+              <br>
+              <strong>Postman Badge</strong>
+            </td>
+              <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>SummitSeeker Badge</strong>
+            </td>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
