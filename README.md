@@ -93,8 +93,6 @@
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
-          Total Badges: 07<br>
-          Total Score: 1055<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
