@@ -89,51 +89,50 @@
           <strong>GirlScript Summer of Code Extd 2024</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Rank - 64 </span>
+        <span style="font-size: 14px; color: #555555;">🏅 Rank - 300 </span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 17,000+ participants<br>
-          PRs Merged: 56<br>
-          Total Badges: 10<br>
-          Total Score: 1860<br>
+          Total Badges: 07<br>
+          Total Score: 1055<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
 	    <td style="padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/PostmanAPI.png" alt="Postman Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Postman%20Badge.png" alt="Postman Badge" width="80" />
               <br>
               <strong>Postman Badge</strong>
             </td>
           <tr align="center">
               <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>SummitSeeker Badge</strong>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/HackWeb-Badge.png" alt="Innovator Badge" width="80" />
+              <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Web3Hack%20Badge.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Web3 Badge</strong>
             </td>
