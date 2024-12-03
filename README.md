@@ -120,7 +120,6 @@
               <br>
               <strong>Postman Badge</strong>
             </td>
-          <tr align="center">
               <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/RandomSummer/RandomSummer/blob/master/GSSoC'24%20Extd/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
@@ -136,7 +135,6 @@
               <br>
               <strong>Web3 Badge</strong>
             </td>
-          </tr>
         </table>
       </td>
     </tr>
